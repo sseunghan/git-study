@@ -2,3 +2,20 @@
 ## 전주정보영상진흥원
 
 11월 7일부터 22일까지 3주간 진행되는 프로젝트 과정입니다.
+
+
+- git 설치
+- vs code 설치
+- vs code 기본 터미널로 git bash 설정
+  (터미널 설정 => 기본설정"git bash")
+- node 설치(version 14.15)
+- npm을 활용해서 sass를 설치 (version 1.29)
+  (npm install -g sass : "Dart Sass설치")
+- sass 버전 확인 (sass --varsion)
+- sass sass파일 css파일(sass sass/style.scss css/style.css)
+- sass --watch sass:css (watching 상태)
+- sass 변수 ($변수명)
+- sass 중첩 (.header .brand{ ... } )
+- sass 믹스인 (maxin)
+- sass 확장 (extend)
+- sass 모듈 (파일의 유형별로 분류)
